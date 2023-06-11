@@ -1,0 +1,9 @@
+* cl-locale
+
+Simple i18n library for Common Lisp
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/fukamachi/cl-locale.git |
+| commit  | 0a36cc0                                        |
+| systems | cl-locale                                      |
+|---------+------------------------------------------------|
