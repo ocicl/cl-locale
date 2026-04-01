@@ -7,3 +7,4 @@ Simple i18n library for Common Lisp
 | commit  | 0a36cc0                                        |
 | systems | cl-locale                                      |
 |---------+------------------------------------------------|
+ 
